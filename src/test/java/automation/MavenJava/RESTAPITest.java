@@ -23,4 +23,9 @@ public class RESTAPITest {
 	public void WebLogout() {
 		System.out.println("apiLogout");
 	}
+	
+	@Test
+	public void MobileWebLogin() {
+		System.out.println("apiLogout");
+	}
 }
