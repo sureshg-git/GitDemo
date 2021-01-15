@@ -12,5 +12,15 @@ public class RESTAPITest {
 	public void APILogout() {
 		System.out.println("apiLogout");
 	}
+	
+	// newly added tests
+	@Test
+	public void WebLogin() {
+		System.out.println("apiLogout");
+	}
 
+	@Test
+	public void WebLogout() {
+		System.out.println("apiLogout");
+	}
 }
