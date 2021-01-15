@@ -23,4 +23,14 @@ public class RESTAPITest {
 	public void WebLogout() {
 		System.out.println("apiLogout");
 	}
+	// newly added tests
+	@Test
+	public void IVRLogin() {
+		System.out.println("apiLogout");
+	}
+
+	@Test
+	public void IVRLogout() {
+		System.out.println("apiLogout");
+	}
 }
