@@ -29,8 +29,5 @@ public class RESTAPITest {
 		System.out.println("apiLogout");
 	}
 
-	@Test
-	public void IVRLogout() {
-		System.out.println("apiLogout");
-	}
+	
 }
